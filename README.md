@@ -20,4 +20,4 @@ Seamlessly navigate through large collections.
 
 * **Backend:** Java, Spring Boot, Spring Data JPA
 * **Frontend:** HTML5, Tailwind CSS, JavaScript (Fetch API)
-* **Database:** Mysql
+* **Database:** MySql
